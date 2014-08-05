@@ -15,6 +15,8 @@ gem 'spring',        group: :development
 ## gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'devise', '~> 3.0.3'
+# gem 'paperclip', '~> 3.0'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
