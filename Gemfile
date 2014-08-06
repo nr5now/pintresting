@@ -17,6 +17,8 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem 'devise', '~> 3.0.3'
 # gem 'paperclip', '~> 3.0'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '~> 1.20.0'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
