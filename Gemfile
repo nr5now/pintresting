@@ -10,6 +10,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'jquery-turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'spring',        group: :development
 ## gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
@@ -18,7 +19,7 @@ gem 'devise', '~> 3.0.3'
 # gem 'paperclip', '~> 3.0'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'aws-sdk', '~> 1.20.0'
-
+gem 'masonry-rails', '~> 0.2.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
